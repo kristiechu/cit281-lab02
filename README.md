@@ -7,8 +7,8 @@
   - Use CLI commands for git commands
 
 ## Lab 2 Example
-![Lab 2](![lab-node pic](https://raw.githubusercontent.com/kristiechu/cit281-lab1/main/lab-02.png)
+![Lab 2](https://raw.githubusercontent.com/kristiechu/cit281-lab02/main/lab-02.png)
 
 ## Hangman Game Repo Example
-![Hangman game](https://raw.githubusercontent.com/kristiechu/cit281-lab1/main/hangman.png)
+![Hangman game](https://raw.githubusercontent.com/kristiechu/cit281-lab02/main/hangman.png)
 
